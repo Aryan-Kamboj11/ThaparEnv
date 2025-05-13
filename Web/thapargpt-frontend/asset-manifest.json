@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/ThaparEnv/Web/thapargpt-frontend/static/css/main.8bc1fa20.css",
-    "main.js": "/ThaparEnv/Web/thapargpt-frontend/static/js/main.657acaa7.js",
+    "main.js": "/ThaparEnv/Web/thapargpt-frontend/static/js/main.e2549ccf.js",
     "static/js/206.738cb335.chunk.js": "/ThaparEnv/Web/thapargpt-frontend/static/js/206.738cb335.chunk.js",
     "index.html": "/ThaparEnv/Web/thapargpt-frontend/index.html"
   },
   "entrypoints": [
     "static/css/main.8bc1fa20.css",
-    "static/js/main.657acaa7.js"
+    "static/js/main.e2549ccf.js"
   ]
 }
