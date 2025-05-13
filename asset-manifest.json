@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ThaparEnv/web/thapargpt-frontend/static/css/main.ccb4c481.css",
+    "main.js": "/ThaparEnv/web/thapargpt-frontend/static/js/main.bd1219e7.js",
+    "static/js/453.e842b67f.chunk.js": "/ThaparEnv/web/thapargpt-frontend/static/js/453.e842b67f.chunk.js",
+    "index.html": "/ThaparEnv/web/thapargpt-frontend/index.html",
+    "main.ccb4c481.css.map": "/ThaparEnv/web/thapargpt-frontend/static/css/main.ccb4c481.css.map",
+    "main.bd1219e7.js.map": "/ThaparEnv/web/thapargpt-frontend/static/js/main.bd1219e7.js.map",
+    "453.e842b67f.chunk.js.map": "/ThaparEnv/web/thapargpt-frontend/static/js/453.e842b67f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccb4c481.css",
+    "static/js/main.bd1219e7.js"
+  ]
+}
