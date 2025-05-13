@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ThaparEnv/static/css/main.aa2d2398.css",
-    "main.js": "/ThaparEnv/static/js/main.fb670f66.js",
-    "static/js/453.e842b67f.chunk.js": "/ThaparEnv/static/js/453.e842b67f.chunk.js",
-    "index.html": "/ThaparEnv/index.html",
-    "main.aa2d2398.css.map": "/ThaparEnv/static/css/main.aa2d2398.css.map",
-    "main.fb670f66.js.map": "/ThaparEnv/static/js/main.fb670f66.js.map",
-    "453.e842b67f.chunk.js.map": "/ThaparEnv/static/js/453.e842b67f.chunk.js.map"
+    "main.css": "/ThaparEnv/Web/thapargpt-frontend/static/css/main.aa2d2398.css",
+    "main.js": "/ThaparEnv/Web/thapargpt-frontend/static/js/main.09dd4bb7.js",
+    "static/js/453.e842b67f.chunk.js": "/ThaparEnv/Web/thapargpt-frontend/static/js/453.e842b67f.chunk.js",
+    "index.html": "/ThaparEnv/Web/thapargpt-frontend/index.html",
+    "main.aa2d2398.css.map": "/ThaparEnv/Web/thapargpt-frontend/static/css/main.aa2d2398.css.map",
+    "main.09dd4bb7.js.map": "/ThaparEnv/Web/thapargpt-frontend/static/js/main.09dd4bb7.js.map",
+    "453.e842b67f.chunk.js.map": "/ThaparEnv/Web/thapargpt-frontend/static/js/453.e842b67f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa2d2398.css",
-    "static/js/main.fb670f66.js"
+    "static/js/main.09dd4bb7.js"
   ]
 }
