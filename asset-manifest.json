@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ThaparEnv/web/thapargpt-frontend/static/css/main.aa2d2398.css",
-    "main.js": "/ThaparEnv/web/thapargpt-frontend/static/js/main.43806ac1.js",
+    "main.js": "/ThaparEnv/web/thapargpt-frontend/static/js/main.6d7aa9c3.js",
     "static/js/453.e842b67f.chunk.js": "/ThaparEnv/web/thapargpt-frontend/static/js/453.e842b67f.chunk.js",
     "index.html": "/ThaparEnv/web/thapargpt-frontend/index.html",
     "main.aa2d2398.css.map": "/ThaparEnv/web/thapargpt-frontend/static/css/main.aa2d2398.css.map",
-    "main.43806ac1.js.map": "/ThaparEnv/web/thapargpt-frontend/static/js/main.43806ac1.js.map",
+    "main.6d7aa9c3.js.map": "/ThaparEnv/web/thapargpt-frontend/static/js/main.6d7aa9c3.js.map",
     "453.e842b67f.chunk.js.map": "/ThaparEnv/web/thapargpt-frontend/static/js/453.e842b67f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa2d2398.css",
-    "static/js/main.43806ac1.js"
+    "static/js/main.6d7aa9c3.js"
   ]
 }
